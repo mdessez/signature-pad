@@ -10,6 +10,7 @@
     "email": "hey@thomasjbradley.ca",
     "url": "http://thomasjbradley.ca"
   },
+  "main": "jquery.signaturepad.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/thomasjbradley/signature-pad"
